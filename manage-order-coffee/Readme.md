@@ -1,4 +1,4 @@
-# Project 2 - Quản Lý Cửa Hàng Cà Phê
+# Project - Quản Lý Order Cửa Hàng Cà Phê
 
 ![](<https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png>)
 
@@ -6,13 +6,12 @@
 
 ## Thành viên nhóm
 
-| STT |    MSSV    | Họ và tên             |
-| :-: | :--------: | --------------------- |
-|  1  | 3119410467 | Nguyễn Đức Minh Trung |
-|  2  | 3119410420 | Hồ Tấn Thuận          |
-|  3  | 3119410294 | Võ Hoàng Quỳnh Như    |
-|  4  | 3119410308 | Trần Kim Phú          |
-|  5  | 3119410439 | Minh Hiếu Calan Tog   |
+| STT |   MSSV   | Họ và tên            |
+| :-: | :------: | -------------------- |
+|  1  | 21011124 | Ngô Trọng Hiếu       |
+|  2  | 21011585 | Hoàng Ngọc Diệp      |
+|  3  | 21010671 | Nguyễn Thành Đạt     |
+|  4  | 21012086 | Lê Minh Quang        |
 
 ## Yêu Cầu:
 
