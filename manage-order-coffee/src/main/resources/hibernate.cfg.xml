@@ -1,0 +1,26 @@
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.dialect">
+            org.hibernate.dialect.MySQLDialect
+        </property>
+        <property name="hibernate.connection.driver_class">
+            com.mysql.jdbc.Driver
+        </property>
+
+        <!-- Thông tin kết nối db -->
+        <property name="hibernate.connection.url">
+            jdbc:mysql://localhost/coffeestore
+        </property>
+        <property name="hibernate.connection.username">
+            root
+        </property>
+        <property name="hibernate.connection.password">
+        </property>
+        <mapping class="hibernate.entities.Product"/>
+        <mapping class="hibernate.entities.Category"/>
+        <mapping class="hibernate.entities.Customer"/>
+        <mapping class="hibernate.entities.Order"/>
+        <mapping class="hibernate.entities.OrderDetail"/>
+    </session-factory>
+</hibernate-configuration>
+

@@ -1,0 +1,3 @@
+- Doanh thu
+- Loại (thống kê số lượng loại hiện có, ấn vào đưa đến menu quản lý loại)
+- Sản Phẩm(thống kê số lượng sản phẩm hiện có, ấn vào đưa đến menu quản lý sản phẩm)
